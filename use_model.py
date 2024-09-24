@@ -1,7 +1,9 @@
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 
-model = GPT2LMHeadModel.from_pretrained("./resultados")
+model = GPT2LMHeadModel.from_pretrained("./resultados", low_cpu_mem_usage=True)
+
+
 tokenizer = GPT2Tokenizer.from_pretrained("./resultados")
 tokenizer.pad_token = "<pad>"
 
