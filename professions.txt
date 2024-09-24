@@ -1,0 +1,61 @@
+Administrador: Curso: Administração. Descrição: O administrador desenvolve habilidades transversais para gerenciar empresas e organizações. Ele coordena operações, gerencia recursos humanos, financeiros e materiais, e estabelece estratégias para alcançar objetivos empresariais. Duração: 4 anos. Salário Médio: R$ 4.000,00. Área de Atuação: Gestão empresarial, recursos humanos, finanças.
+
+Agrônomo: Curso: Agronomia. Descrição: O agrônomo trabalha para melhorar os processos agrícolas, garantindo sustentabilidade e eficiência. Este profissional lida com produção de alimentos, gestão de recursos naturais e desenvolvimento rural, integrando soluções tecnológicas com os 17 Objetivos de Desenvolvimento Sustentável (ODS). Duração: 5 anos. Salário Médio: R$ 5.000,00. Área de Atuação: Agricultura, sustentabilidade, consultoria agrícola.
+
+Desenvolvedor de Sistemas: Curso: Análise e Desenvolvimento de Sistemas. Descrição: O desenvolvedor de sistemas projeta, constrói e mantém soluções tecnológicas, como software e aplicações, utilizando ferramentas de programação e modelagem. Duração: 3 a 4 anos. Salário Médio: R$ 7.000,00. Área de Atuação: Tecnologia da informação, desenvolvimento de software, análise de sistemas.
+
+Arquiteto e Urbanista: Curso: Arquitetura e Urbanismo. Descrição: O arquiteto e urbanista projeta e planeja espaços físicos, equilibrando estética, funcionalidade e sustentabilidade. Duração: 5 anos. Salário Médio: R$ 6.000,00. Área de Atuação: Arquitetura, urbanismo, design de interiores.
+
+Biomédico: Curso: Biomedicina. Descrição: O biomédico atua na pesquisa, diagnóstico e prevenção de doenças. Duração: 4 anos. Salário Médio: R$ 4.000,00. Área de Atuação: Saúde, diagnóstico laboratorial, pesquisa biomédica.
+
+Biólogo: Curso: Ciências Biológicas. Descrição: O biólogo estuda a vida e a biodiversidade, compreendendo os organismos vivos e suas interações com o meio ambiente. Duração: 4 anos. Salário Médio: R$ 3.084,00. Área de Atuação: Pesquisa, conservação ambiental, biotecnologia.
+
+Contador: Curso: Ciências Contábeis. Descrição: O contador é responsável pelo controle, análise e auditoria de registros financeiros. Duração: 4 anos. Salário Médio: R$ 4.500,00. Área de Atuação: Finanças, auditoria, consultoria contábil.
+
+Economista: Curso: Ciências Econômicas. Descrição: O economista analisa sistemas econômicos e financeiros, propondo soluções para problemas de desenvolvimento e planejamento econômico. Duração: 4 anos. Salário Médio: R$ 7.000,00. Área de Atuação: Economia, consultoria financeira, pesquisa econômica.
+
+Designer Gráfico: Curso: Design Gráfico. Descrição: O designer gráfico cria experiências visuais que comunicam ideias de forma impactante. Duração: 3 a 4 anos. Salário Médio: R$ 3.500,00. Área de Atuação: Design, publicidade, marketing.
+
+Advogado: Curso: Direito. Descrição: O advogado é o profissional que defende os direitos individuais e coletivos, aplicando a legislação vigente para resolver conflitos e proteger os interesses de seus clientes. Duração: 5 anos. Salário Médio: R$ 8.000,00. Área de Atuação: Direito civil, penal, trabalhista.
+
+Profissional de Educação Física: Curso: Educação Física. Descrição: O profissional de Educação Física promove saúde e bem-estar por meio de atividades físicas. Duração: 4 anos. Salário Médio: R$ 3.200,00. Área de Atuação: Educação física, saúde, esportes.
+
+Enfermeiro: Curso: Enfermagem. Descrição: O enfermeiro cuida da saúde de indivíduos em todas as fases da vida. Duração: 4 anos. Salário Médio: R$ 5.500,00. Área de Atuação: Saúde, cuidados hospitalares, atenção primária.
+
+Engenheiro Aeronáutico: Curso: Engenharia Aeronáutica. Descrição: O engenheiro aeronáutico projeta, constrói e mantém aeronaves e sistemas relacionados à aviação. Duração: 5 anos. Salário Médio: R$ 10.000,00. Área de Atuação: Engenharia aeronáutica, aviação, manutenção de aeronaves.
+
+Engenheiro Civil: Curso: Engenharia Civil. Descrição: O engenheiro civil é responsável pelo planejamento, projeto e construção de obras civis. Duração: 5 anos. Salário Médio: R$ 8.500,00. Área de Atuação: Construção civil, obras públicas, infraestrutura.
+
+Engenheiro de Computação: Curso: Engenharia de Computação. Descrição: O engenheiro de computação desenvolve sistemas computacionais integrando hardware e software. Duração: 5 anos. Salário Médio: R$ 8.000,00. Área de Atuação: Tecnologia, sistemas embarcados, desenvolvimento de software.
+
+Engenheiro Eletricista: Curso: Engenharia Elétrica e Eletrônica. Descrição: O engenheiro eletricista projeta, opera e mantém sistemas elétricos e eletrônicos. Duração: 5 anos. Salário Médio: R$ 8.000,00. Área de Atuação: Engenharia elétrica, eletrônica, automação.
+
+Engenheiro Mecânico: Curso: Engenharia Mecânica. Descrição: O engenheiro mecânico projeta e otimiza sistemas mecânicos. Duração: 5 anos. Salário Médio: R$ 8.500,00. Área de Atuação: Engenharia mecânica, manufatura, automação.
+
+Profissional de Estética: Curso: Estética e Cosmética. Descrição: O profissional de estética aplica tratamentos para cuidados com a pele, corpo e bem-estar. Duração: 2 a 3 anos. Salário Médio: R$ 2.500,00. Área de Atuação: Estética, beleza, cuidados pessoais.
+
+Fisioterapeuta: Curso: Fisioterapia. Descrição: O fisioterapeuta atua na prevenção e tratamento de distúrbios físicos. Duração: 4 anos. Salário Médio: R$ 4.500,00. Área de Atuação: Saúde, reabilitação, terapia física.
+
+Gestor de Recursos Humanos: Curso: Gestão de Recursos Humanos. Descrição: O gestor de recursos humanos é responsável pela administração do capital humano dentro de uma organização. Duração: 4 anos. Salário Médio: R$ 5.000,00. Área de Atuação: Recursos humanos, gestão de pessoas, treinamento.
+
+Historiador: Curso: História. Descrição: O historiador estuda o passado para compreender os eventos e mudanças que moldam a sociedade atual. Duração: 4 anos. Salário Médio: R$ 3.500,00. Área de Atuação: Pesquisa, educação, museus.
+
+Jornalista: Curso: Jornalismo. Descrição: O jornalista é responsável por investigar, produzir e divulgar informações em diversos meios de comunicação. Duração: 4 anos. Salário Médio: R$ 4.000,00. Área de Atuação: Mídia, comunicação, reportagem.
+
+Professor de Línguas: Curso: Letras. Descrição: O professor de línguas ensina e pesquisa linguagens e literaturas. Duração: 4 anos. Salário Médio: R$ 3.000,00. Área de Atuação: Educação, ensino de línguas, tradução.
+
+Médico: Curso: Medicina. Descrição: O médico diagnostica, trata e previne doenças. Duração: 6 anos. Salário Médio: R$ 15.000,00. Área de Atuação: Saúde, atendimento clínico, hospitalar.
+
+Veterinário: Curso: Medicina Veterinária. Descrição: O veterinário cuida da saúde e bem-estar de animais. Duração: 5 anos. Salário Médio: R$ 5.000,00. Área de Atuação: Saúde animal, clínicas veterinárias, pesquisa.
+
+Especialista em Mídias Sociais: Curso: Mídias Sociais Digitais. Descrição: O especialista em mídias sociais gerencia e cria estratégias para marcas e empresas nas plataformas digitais. Duração: 3 a 4 anos. Salário Médio: R$ 4.000,00. Área de Atuação: Marketing digital, comunicação, branding.
+
+Nutricionista: Curso: Nutrição. Descrição: O nutricionista planeja e supervisiona a alimentação de indivíduos e coletividades. Duração: 4 anos. Salário Médio: R$ 4.000,00. Área de Atuação: Saúde, nutrição clínica, educação alimentar.
+
+Pedagogo: Curso: Pedagogia. Descrição: O pedagogo é responsável pelo planejamento e gestão de processos educativos. Duração: 4 anos. Salário Médio: R$ 3.200,00. Área de Atuação: Educação, gestão escolar, orientação pedagógica.
+
+Psicólogo: Curso: Psicologia. Descrição: O psicólogo estuda o comportamento humano e promove a saúde mental. Duração: 5 anos. Salário Médio: R$ 5.000,00. Área de Atuação: Saúde mental, terapia, aconselhamento.
+
+Publicitário: Curso: Publicidade e Propaganda. Descrição: O publicitário cria estratégias de comunicação para promover marcas, produtos e serviços. Duração: 4 anos. Salário Médio: R$ 5.500,00. Área de Atuação: Marketing, publicidade, comunicação.
+
+Químico: Curso: Química. Descrição: O químico pesquisa e desenvolve novos materiais e processos químicos. Duração: 4 anos. Salário Médio: R$ 6.000,00. Área de Atuação: Indústria química, pesquisa, desenvolvimento de produtos.
